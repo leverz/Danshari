@@ -1,0 +1,23 @@
+{
+  "name": "danshari",
+  "version": "1.0.0",
+  "description": "Organize your Shimo files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leverz/Danshari.git"
+  },
+  "keywords": [
+    "Danshari",
+    "Shimo"
+  ],
+  "author": "Lever",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leverz/Danshari/issues"
+  },
+  "homepage": "https://github.com/leverz/Danshari#readme"
+}
